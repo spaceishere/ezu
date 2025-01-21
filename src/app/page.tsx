@@ -81,7 +81,7 @@ export default function Home() {
       <div className={`${app ? "flex" : "hidden"}  w-full h-screen flex items-center justify-center`}>
         <div className="w-[80%] sm:w-[50%] lg:w-[350px] p-[50px] shadow-2xl bg-white rounded-lg flex flex-col gap-2 items-center justify-center text-black">
           <Image src={yes} alt="love" width={350} height={150} className="rounded-lg" />
-          <p className="text-[20px] text-center">Надад боломж олгож зөвшөөрсөнд баярлалаа.</p>
+          <p className="text-[20px] text-center">Зөв сонголт зөвшөөрсөнд баярлалаа.</p>
         </div>
       </div>
       <div className={`${notapp ? "flex" : "hidden"}  w-full h-screen flex items-center justify-center`}>
