@@ -36,7 +36,7 @@ export default function Home() {
               setSerius(false);
             }}
           >
-            Тийм{" "}
+            Тийм
           </button>
           <button
             className="border-[1px] shadow-md px-4 py-2 border-black rounded-md group relative"
