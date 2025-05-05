@@ -25,9 +25,9 @@ export default function Home() {
           serius || app || notapp ? "hidden" : "flex"
         } w-[80%] sm:w-[50%] lg:w-[350px] text-center flex flex-col gap-[20px] items-center justify-center bg-white rounded-xl shadow-2xl p-[50px]`}
       >
-        <p className="text-[25px] text-center">Dedicated to ezu</p>
+        <p className="text-[25px] text-center">Dedicated to zolo</p>
         <Image src={loveImage} alt="love" width={350} height={150} />
-        <p className="text-[20px] text-center">Батукатай болзохуу?</p>
+        <p className="text-[20px] text-center">надтай болзохуу?</p>
         <div className="w-[100%] flex items-center justify-center gap-4">
           <button
             className="border-[1px] shadow-md px-4 py-2 border-black rounded-md"
